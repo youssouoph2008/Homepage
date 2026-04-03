@@ -34,7 +34,7 @@ Desktop view
 Tablet view
 Mobile view
 
-(Optional: add screenshots here to showcase responsiveness.)
+
 
 ## Notes & Tips
 Mobile-first approach used in CSS.
